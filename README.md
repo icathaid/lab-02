@@ -1,13 +1,12 @@
 ![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context
 ============================================================
 
-### Before you begin
-* You'll need to initialize this lab folder as a new node module, install your dependencies, setup your npm script commands, and pull in your config files
+[x] You'll need to initialize this lab folder as a new node module, install your dependencies, setup your npm script commands, and pull in your config files
 
 #### Objects and Classes
-In the `objects` folder, there is a full implementation of a Car and Motorcycle object created using a constructor function, with an index.js file that you can use to visually play with the objects as well as tests.
+- In the `objects` folder, there is a full implementation of a Car and Motorcycle object created using a constructor function, with an index.js file that you can use to visually play with the objects as well as tests.
 
-In the `objects/__tests__` folder, you'll find a file called `vehicle.test.js` that tests the implementation of both a `Car` and a `Motorcycle` using the constructor pattern.
+- In the `objects/__tests__` folder, you'll find a file called `vehicle.test.js` that tests the implementation of both a `Car` and a `Motorcycle` using the constructor pattern.
 
 ###### Requirements
 * Implement both `Car` and `Motorcycle` using a Javascript `Class` (in the `vehicle-class.js` file)

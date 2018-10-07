@@ -1,0 +1,24 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context ============================================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icathaid/lab-02.git"
+  },
+  "author": "james",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icathaid/lab-02/issues"
+  },
+  "homepage": "https://github.com/icathaid/lab-02#readme",
+  "dependencies": {
+    "eslint": "^5.6.1",
+    "jest": "^23.6.0"
+  }
+}
