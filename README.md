@@ -1,4 +1,4 @@
-[](https://www.travis-ci.com/icathaid/lab-02.svg?branch=master)
+![](https://www.travis-ci.com/icathaid/lab-02.svg?branch=master)
 
 ![cf](https://i.imgur.com/7v5ASc8.png) 02: Tools and Context
 ============================================================
