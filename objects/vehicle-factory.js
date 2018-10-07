@@ -7,7 +7,8 @@ const Vehicle = {
     return 'vroooom';
   },
 };
-
+console.log(Vehicle);
+//  need to use Vehicle somewhere to satisfy linter until I can finish factory functions
 const Car = {
   wheels: 4,
   stop(){
